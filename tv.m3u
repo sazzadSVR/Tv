@@ -260,7 +260,7 @@ http://198.195.239.50:8095/StarSportsSelect2/tracks-v1a1/mono.m3u8
 http://103.157.248.140:8000/play/a01m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sazzadSVR/logo/main/ptvsports.png" group-title="Sports",PTV Sports
-http://119.156.228.231:9983/stream/channelid/679185749?ticket=DED82FB8AE85893524A1035AAE7CD187020FFA04&profile=pass
+http://103.89.248.26:8082/1LIVE/tracks-a1/index.fmp4.m3u8?token=26c7d8c482de8f4f2fb83ac840089aad82e28462-eaf91c05796ad5ea9b51ff5cc76b02b9-1784832120-1784821320
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sazzadSVR/logo/main/beinsportsextra.png" group-title="Sports",BeIN Sports Extra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
